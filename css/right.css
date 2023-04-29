@@ -1,0 +1,33 @@
+.main {
+    padding-top: -30px;
+}
+
+img {
+    border: 2px solid rgb(12, 3, 3);
+    border-radius: 10%;
+    box-shadow: red 0px 2px 8px 0px;
+    width: 250px;
+    height: 200px;
+}
+
+.card-img {
+    float: left;
+    width: 70%;
+}
+
+.card {
+    margin-left: 30px;
+    margin-top: 100px;
+}
+
+.card-text {
+    float: right;
+    margin-top: 50px;
+    /* margin-right: -50px; */
+    width: 30%;
+}
+
+.card-text .text {
+    font-size: 24px;
+    font-weight: 600;
+}
